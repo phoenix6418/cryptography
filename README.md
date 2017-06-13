@@ -1,2 +1,2 @@
 # cryptography
-Stream and Block cipher using C.
+Stream and Block cipher using C++.
